@@ -14,10 +14,16 @@ npm list -g --depth=0
 ```
 npm install 
 ```
+# Code analysis
+- jshint
+- jscs : JS style checker
 
+Config files:
+- .jshintrc
+- .jscsrd
 # Optimizations
 Included in this build
--cssnano
--uglify
--htmlmin
--useref
+- cssnano
+- uglify
+- htmlmin
+- useref
