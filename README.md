@@ -14,13 +14,17 @@ npm list -g --depth=0
 ```
 npm install 
 ```
+# Gulp configs
+Just use gulp.config.jscs
+
 # Code analysis
 - jshint
 - jscs : JS style checker
 
 Config files:
 - .jshintrc
-- .jscsrd
+- .jscsrc
+
 # Optimizations
 Included in this build
 - cssnano
